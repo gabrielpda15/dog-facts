@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DogFacts.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="QueueName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Endpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.dogfactsapi.ducnguyen.dev/api/v1/facts/?number=#</Value>
+    </Setting>
+    <Setting Name="InputFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\input</Value>
+    </Setting>
+    <Setting Name="OutputFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\output</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
